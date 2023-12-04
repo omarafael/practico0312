@@ -1,0 +1,15 @@
+modelo\Estado.class
+modelo\Servicio.class
+DAO\IncidenteDAO.class
+configuracion\DBConfig.class
+servicio\Main.class
+DAO\TecnicoDAO.class
+modelo\TipoDeProblema.class
+modelo\Tecnico.class
+DAO\ServicioDAO.class
+modelo\Cliente.class
+modelo\Incidente.class
+modelo\ProvisionDeServicio.class
+DAO\ClienteDAO.class
+DAO\AbstractJpaDAO.class
+DAO\TipoDeProblemaDAO.class
